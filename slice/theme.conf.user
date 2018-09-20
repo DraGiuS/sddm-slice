@@ -1,0 +1,12 @@
+[General]
+color_bg=#e5e5e5
+color_main=#345470
+color_dimmed=#7592a3
+color_contrast=#f9f9f9
+color_text=#345470
+color_text_bg=#aad0dfe8
+color_icon_bg=#aad0dfe8
+color_error_text=#a34c4e
+color_error_bg=#11a34c4e
+background=/home/wallhaven-597078.jpg
+bg_mode=aspect
